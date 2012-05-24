@@ -37,20 +37,20 @@
 		A4AB4F1B156E7468000B3B46 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		A4AB4F1D156E7468000B3B46 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A4AB4F1F156E7468000B3B46 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		A4AB4F23156E7468000B3B46 /* HelloXcode-Info.plist */ = {isa = PBXFileReference; path = "HelloXcode-Info.plist"; sourceTree = "<group>"; };
+		A4AB4F23156E7468000B3B46 /* HelloXcode-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloXcode-Info.plist"; sourceTree = "<group>"; };
 		A4AB4F25156E7468000B3B46 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A4AB4F27156E7468000B3B46 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		A4AB4F29156E7468000B3B46 /* HelloXcode-Prefix.pch */ = {isa = PBXFileReference; path = "HelloXcode-Prefix.pch"; sourceTree = "<group>"; };
-		A4AB4F2A156E7468000B3B46 /* HelloXcodeAppDelegate.h */ = {isa = PBXFileReference; path = HelloXcodeAppDelegate.h; sourceTree = "<group>"; };
+		A4AB4F29156E7468000B3B46 /* HelloXcode-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HelloXcode-Prefix.pch"; sourceTree = "<group>"; };
+		A4AB4F2A156E7468000B3B46 /* HelloXcodeAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloXcodeAppDelegate.h; sourceTree = "<group>"; };
 		A4AB4F2B156E7468000B3B46 /* HelloXcodeAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloXcodeAppDelegate.m; sourceTree = "<group>"; };
-		A4AB4F2D156E7468000B3B46 /* HelloXcodeViewController.h */ = {isa = PBXFileReference; path = HelloXcodeViewController.h; sourceTree = "<group>"; };
+		A4AB4F2D156E7468000B3B46 /* HelloXcodeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloXcodeViewController.h; sourceTree = "<group>"; };
 		A4AB4F2E156E7468000B3B46 /* HelloXcodeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloXcodeViewController.m; sourceTree = "<group>"; };
 		A4AB4F31156E7468000B3B46 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/HelloXcodeViewController.xib; sourceTree = "<group>"; };
 		A4AB4F38156E7468000B3B46 /* HelloXcodeTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HelloXcodeTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4AB4F39156E7468000B3B46 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		A4AB4F41156E7468000B3B46 /* HelloXcodeTests-Info.plist */ = {isa = PBXFileReference; path = "HelloXcodeTests-Info.plist"; sourceTree = "<group>"; };
+		A4AB4F41156E7468000B3B46 /* HelloXcodeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "HelloXcodeTests-Info.plist"; sourceTree = "<group>"; };
 		A4AB4F43156E7468000B3B46 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		A4AB4F45156E7468000B3B46 /* HelloXcodeTests.h */ = {isa = PBXFileReference; path = HelloXcodeTests.h; sourceTree = "<group>"; };
+		A4AB4F45156E7468000B3B46 /* HelloXcodeTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HelloXcodeTests.h; sourceTree = "<group>"; };
 		A4AB4F46156E7468000B3B46 /* HelloXcodeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HelloXcodeTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
